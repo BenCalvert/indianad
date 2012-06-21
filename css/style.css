@@ -1,0 +1,85 @@
+body {
+background: 
+}
+
+/* Container */
+#container {
+position: absolute;
+background: gray;
+margin-left: 5%;
+margin-right: 5%;
+padding: 0px;
+border-radius: 15px;
+height: 95%;
+width: 90%;
+}
+
+/*Header */
+#header {
+position: absolute;
+width: 100%;
+height: 60px;
+text-align: center;
+}
+
+/*Navigation Bar */ 
+#nav { 
+position: absolute;
+background: black;
+border-radius: 10px;
+height: 40px;
+padding: 0px;
+margin: 0px;
+width: 100%;
+margin-top: 80px;
+}
+
+#nav ul {
+list-style: none;
+padding: 0px;
+margin: 0px;
+display: block;
+}
+
+#nav textarea, #nav li {
+display: inline;
+}
+
+#nav li a
+{
+color: white;
+text-decoration: none;
+padding-top: 7px;
+padding-bottom: 15px;
+padding-left: 15px;
+padding-right: 15px;
+text-align: center;
+
+}
+
+#nav li a:hover {
+color: blue;
+background: white;
+}
+
+#nav textarea {
+height: 15px;
+resize: none;
+display: inline;
+}
+
+/* Content */
+#body {
+position: absolute;
+top: 120px;
+background: blue;
+border-radius: 10px;
+margin-left: 5%;
+margin-right: 5%;
+width: 90%;
+height: 300px;
+}
+
+
+
+

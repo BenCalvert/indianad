@@ -1,0 +1,34 @@
+<!doctype html> 
+<head>
+<title>IndianaDesigner.com</title>
+<meta charset="utf-8" />
+<link rel="stylesheet" href="css/style.css" type="text/css" />
+</head>
+
+<body>
+<div id="container">
+<div id="header">
+<h1><a href="#">IndianaDesigner.com</a></h1>
+</div>
+
+<div id="nav">
+	<ul>
+		<li class="active"><a href="#">HOME</a></li> 
+		<li><a href="#">DESIGNS</a></li>  
+		<li><a href="#">PORTFOLIOS</a></li> 
+		<li><a href="#">specialty</a></li>
+		<li><textarea>SEARCH</textarea></li>
+	</ul>
+</div>
+
+<div id="body">
+<p> poke and prod the code until something works - intern </p>
+
+</div>
+
+
+</div>
+<!--container end -->
+
+</body>
+</html>
