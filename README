@@ -1,0 +1,27 @@
+Site Design for IndianaDesigner.com
+
+The site is going to be designed in 4 stages:
+
+-Basic HTML Layout
+
+-Basic Backend (Email setup)
+
+-Backend cleanup and add
+
+-HTML Cleanup
+
+-Push final design to site
+
+Design Model:
+
+Client -Send Job Request-> IndianaDesigner.com
+
+Client will recieve an email with the job information back as a confirmation the request was recieved, with a watch URL
+
+Designers -Login and look at job requests-> IndianaDesigner.com
+
+Designers -Select job and confirm-> IndianaDesigner.com puts an email together and sends to client
+
+Client recieves email and decides if they want to accept offer. 
+	if offer is accepted, then the client simply emails the designer
+	if offer is not chosen, then the client is not obligated to do anything. The client and designer never exchanged information.
