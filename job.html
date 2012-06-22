@@ -4,13 +4,20 @@
 </head>
 <body>
 <form name="job" action="job.php" method="get"> 
-SUBMIT A JOB: <br />
+<b><u> SUBMIT A JOB:</u> </b><br />
+Job Title:<br />
 <input type="text" name="title" placeholder="Title of Job"/> <br />
+Description:<br />
 <input type="text" name="location" placeholder="Location"/> <br />
+Description:<br />
 <textarea name="description" placeholder="Description">
 </textarea><br />
+Price Range:<br />
+<input type="text" name="price1" placeholder="$0" size="6" />-<input type="text" name="price2" placeholder="$20,000" size="6"/><br />
+Email:<br />
+<input type="text" name="email" placeholder="example@example.com" /><br />
 <input type="submit" value="Submit"/>
 </form>
-<a href="index.html">Home</a> <a href="search.php">Job Search</a> <a href="job.html">Submit a Job</a> <a href="about.html">About</a>  
+<a href="index.html">Home</a> <a href="search.php">Search</a> <a href="job.html">Submit a Job</a> <a href="about.html">About</a>  
 </body>
 </html>
