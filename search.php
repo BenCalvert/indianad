@@ -1,5 +1,5 @@
 <!DOCTYPE HTML>
-<!-- DESIGNER HOME (PHP ONLY) -->
+<!--SEARCH-->
 <head>
 </head>
 <body>
