@@ -1,11 +1,21 @@
 <!doctype html> 
 <!-- ACCOUNT CREATION -->
 <head>
-<title>IndianaDesigner.com</title>
-<meta charset="utf-8" />
-<link rel="stylesheet" href="css/style.css" type="text/css" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title>Create Login</title>
+<link rel="stylesheet" type="text/css" href="css/style.css" media="screen" />
+<!--link rel="stylesheet" type="text/css" href="CSS/style.css" media="handheld" /-->
+<!-- ATTEMPT TO MAKE MOBILE STYLESHEET -->
 </head>
+
 <body>
+<p>
+<div id="header">
+<h1> INDIANADESIGNER.COM </h1>
+</div>
+</p>
+
+<div id="content">
 <p>
 <!-- CREATE USER FROM FORM -->
 
@@ -32,8 +42,14 @@ Confirm password: <br />
 <!-- NEED TO VERIFY -->
 <input type="submit" value="Submit"/>
 </form>
-
-<a href="index.html">Home</a> <a href="search.php">Search</a> <a href="job.html">Submit a Job</a> <a href="about.html">About</a>  
 </p>
+</div>
+
+<nav>
+<p>
+<a href="index.html">Home</a>-<a href="search.php">Search</a>-<a href="job.html">Submit a Job</a>-<a href="about.html">About</a>  
+</p>
+</nav>
+
 </body>
 </html>
